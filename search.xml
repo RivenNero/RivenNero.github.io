@@ -82,20 +82,15 @@ SQLSELECT 'Hello World!';
     <content><![CDATA[This is my blog source folder]]></content>
   </entry>
   <entry>
-    <title></title>
-    <url>/manifest.json</url>
-    <content><![CDATA[{"name":"","short_name":"","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone"}]]></content>
-  </entry>
-  <entry>
     <title>404</title>
     <url>/404/index.html</url>
     <content><![CDATA[南风知我意，吹梦到西洲。
 ]]></content>
   </entry>
   <entry>
-    <title>分类</title>
-    <url>/categories/index.html</url>
-    <content><![CDATA[]]></content>
+    <title></title>
+    <url>/manifest.json</url>
+    <content><![CDATA[{"name":"","short_name":"","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone"}]]></content>
   </entry>
   <entry>
     <title>关于</title>
@@ -147,12 +142,17 @@ ReLIFE 系列
 阿尔托莉雅·潘德拉贡
 卫宫士郎
 
-联系方式E-mail: &#x52;&#105;&#118;&#101;&#110;&#78;&#101;&#x72;&#x6f;&#64;&#112;&#x72;&#111;&#116;&#111;&#x6e;&#109;&#97;&#105;&#x6c;&#46;&#x63;&#111;&#109;
+联系方式E-mail: &#82;&#105;&#x76;&#x65;&#110;&#78;&#x65;&#x72;&#x6f;&#x40;&#x70;&#114;&#111;&#x74;&#x6f;&#110;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#99;&#x6f;&#109;
 Telegram: https://t.me/RivenNero
 站点状态https://rivennero.tech
 站点备份Cloudflare Pages: https://hexo-rivennero-com.pages.dev
 GitHub Pages: https://rivennero.github.io
 ]]></content>
+  </entry>
+  <entry>
+    <title>分类</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>标签</title>
