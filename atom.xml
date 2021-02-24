@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RivenNero&#39;s Studio</title>
+  <icon>https://rivennero.com/icons/favicon.png</icon>
+  
+  <link href="https://rivennero.com/atom.xml" rel="self"/>
+  
+  <link href="https://rivennero.com/"/>
+  <updated>2021-02-24T11:41:15.891Z</updated>
+  <id>https://rivennero.com/</id>
+  
+  <author>
+    <name>RivenNero</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《声之形》—— 相互救赎的爱情与友情</title>
+    <link href="https://rivennero.com/the-shape-of-voice/"/>
+    <id>https://rivennero.com/the-shape-of-voice/</id>
+    <published>2019-12-26T02:51:40.000Z</published>
+    <updated>2021-02-24T11:41:15.891Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;2019 年 12 月 25 日，圣诞节，我在晚上看了《声之形》这部动漫。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="动漫" scheme="https://rivennero.com/categories/%E5%8A%A8%E6%BC%AB/"/>
+    
+    
+    <category term="动漫" scheme="https://rivennero.com/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+    <category term="声之形" scheme="https://rivennero.com/tags/%E5%A3%B0%E4%B9%8B%E5%BD%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="https://rivennero.com/hello-world/"/>
+    <id>https://rivennero.com/hello-world/</id>
+    <published>2019-12-20T02:51:40.000Z</published>
+    <updated>2021-02-24T11:43:21.528Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Easter eggs !!!&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
